@@ -1,0 +1,19 @@
+	         Q & A
+=================*****=================
+   Girls           |       Boys
+   7 ***           *	8 win*****
+		   |
+=================*****=================		
+
+
+
+
+
+
+STUDENT ={
+	1:adnan,
+	marks:{eng:85,maths:88},
+	email:123@gmail.com,
+}	
+
+<a href="www.google.com">click here</a>
